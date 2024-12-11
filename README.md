@@ -3,7 +3,6 @@
  ### Objectives
 - Conduct data cleaning and preprocessing.
 - Perform EDA to visualize and understand patterns in the data.
-- Identify key factors correlated with obesity levels.
 - Validate hypotheses using statistical analysis.
   
 ### Steps and Methodology
